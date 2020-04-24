@@ -6,7 +6,7 @@ Drink coffee and have a nice day! :)
 
 Also let's keep in touch +380977711778 denissio_developer@ukr.net
 
-Background 
+# Background 
 
 Demonstrate your skills using a varied range of technologies our company commonly uses. 
 We’ll be assessing task completeness, as well as code quality. 
