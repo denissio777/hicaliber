@@ -1,7 +1,5 @@
 ## PHP Developer Test 
 
-Hello! For enjoying this app u have to configue .env file in root directory to your database settings.
-
 Drink coffee and have a nice day! :)
 
 Also let's keep in touch +380977711778 denissio_developer@ukr.net
