@@ -1,16 +1,28 @@
-PHP Developer Test 
+## PHP Developer Test 
+
+Hello! For enjoying this app u have to configue .env file in root directory to your database settings.
+
+Drink coffee and have a nice day! :)
+
+Also let's keep in touch +380977711778 denissio_developer@ukr.net
+
 Background 
+
 Demonstrate your skills using a varied range of technologies our company commonly uses. 
 We’ll be assessing task completeness, as well as code quality. 
+
 Send a zip of your working directory (excluding the vendor directory) or publish it to the Github when finished. Include any instructions, or notes, or parts you wish to highlight. Feel free to demonstrate any additional knowledge or skills you have, where applicable to the task. 
+
 Skills Tested 
 Primary 
 PHP (Laravel)
 Vue.js
 HTML
 GIT: Commit your work to a local Git repository within your working folder as you finish logical parts of the task. Include the .git folder with the zip file. Our company follows a commit early/commit often mantra.
+
 Bonus (optional) 
 Element UI: Use element-ui to style the frontend section.
+
 Tasks 
 API 
 Using the provided CSV data, create an API route using Laravel that allows the data to be searched. 
